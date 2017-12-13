@@ -710,7 +710,7 @@
                             </div>
                         </div>
                         <div class="card-secondary">
-                            <span class="info no-fig xn job-location"><a href="#"><span class="icon-location"></span><span class="text">Kuala Lumpur</span></a></span><span class=
+                            <span class="info no-fig xn job-location"><a href="#"><span class="icon-location"></span><span class="text">{{$job->fields->work_location_state}}</span></a></span><span class=
                                                                                                                                                                             "info no-fig xn expected-salary"><span class="icon-dollar-sign"></span><span class="text">Around Expected Salary</span></span>
                         </div>
                         <div class="card-tertiary hidden-xs">
